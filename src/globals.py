@@ -1,3 +1,5 @@
+import src.stats as stats # imports it into everything
+
 from src.util import Enum
 
 # a few utility functions
